@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	printf("%d\n",42);
+	int n = 42;
+	printf("The number is %d\n",n);
 	return 0;
 }
